@@ -7,8 +7,8 @@
   ],
   "orgAndRoles" : [
     {"employeeNumber":"10001","organizationCode":"9500_GM","roleCode":"ROLE_ADMIN"},
-    {"employeeNumber":"10002","organizationCode":"9500_YKİE","roleCode":"ROLE_ADMIN"},
-    {"employeeNumber":"10003","organizationCode":"9500_YKB","roleCode":"ROLE_ADMIN"},
+    {"employeeNumber":"10003","organizationCode":"9500_YKİE","roleCode":"ROLE_ADMIN"},
+    {"employeeNumber":"10002","organizationCode":"9500_YKB","roleCode":"ROLE_ADMIN"},
     {"employeeNumber":"10004","organizationCode":"9500_YKID","roleCode":"ROLE_ADMIN"},
     {"employeeNumber":"10005","organizationCode":"9500_YKK","roleCode":"ROLE_ADMIN"},
     {"employeeNumber":"10006","organizationCode":"9500_YKO","roleCode":"ROLE_ADMIN"},
