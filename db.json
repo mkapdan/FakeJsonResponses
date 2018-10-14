@@ -6,6 +6,7 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "orgAndRoles" : [
+    {"employeeNumber":"68207","organizationCode":"9500_GM","roleCode":"ROLE_ADMIN"},
     {"employeeNumber":"10001","organizationCode":"9500_GM","roleCode":"ROLE_ADMIN"},
     {"employeeNumber":"10014","organizationCode":"9500_YKİE","roleCode":"ROLE_ADMIN"},
     {"employeeNumber":"10002","organizationCode":"9500_YKB","roleCode":"ROLE_ADMIN"},
